@@ -1,0 +1,16 @@
+{
+  "name": "INFERNOX DATA BASE",
+  "version": "1.0.0",
+  "description": "TES DOANG",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "telegraf": "^4.16.3"
+  },
+  "author": "dimas",
+  "license": "MIT"
+}
